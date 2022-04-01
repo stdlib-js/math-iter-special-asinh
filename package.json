@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/math-iter-special-asinh",
+  "version": "0.0.0",
+  "description": "Create an iterator which computes the hyperbolic arcsine of each iterated value.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-asinh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "math.asinh",
+    "asinh",
+    "hyperbolic",
+    "inverse",
+    "sine",
+    "sin",
+    "arc",
+    "arcsine",
+    "trig",
+    "trigonometry",
+    "radians",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
